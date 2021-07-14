@@ -13,5 +13,5 @@ git log = shows the logs entered by user
 git reset --soft HEAD~1 = resets the commit to the previous commit
 git branch = shows all the branch we are currently in
 git checkout <branchname> = Switches us to <branchname>
-
+Link for understanding PR "https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests"
 ```
